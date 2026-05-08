@@ -1,4 +1,4 @@
-# Conversor de Unidades - PA2
+# Conversor de Unidades - trabajo final
 Proyecto para la asignatura de Construcción de Software.
 
 ## Integrante
